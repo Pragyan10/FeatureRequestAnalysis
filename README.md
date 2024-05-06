@@ -1,7 +1,7 @@
 # Feature Request Analysis
 
 # Analysis of Feature request posted on Mastodon's Github -> https://github.com/mastodon/mastodon-android
-## How to get he requests?
+## How to get the requests?
 - Go to the issues tab
 - Filter using the keyword "feature request"
 
