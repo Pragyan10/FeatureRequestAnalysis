@@ -7,7 +7,8 @@
 
 
 # Files in the respository 
-- **5FeatureRequestsAnalysisDocument.docx** -> First set of 5 feature requests for analysis
-- **Additional5FeatureRequests.docx** -> Second set of 5 feature requests for analysis
+- **5FeatureRequestsAnalysisDocument.docx** -> First set of 5 feature requests for analysis (April 24th 2024)
+- **Additional5FeatureRequests.docx** -> Second set of 5 feature requests for analysis (May 1st 2024)
+
 
 
