@@ -17,6 +17,8 @@
     5. "Initial Comment"
     6. "Number of Comments"
     7. "All Comments"
+4. Directory: "UsefulPythonCodes" -> This directory consists of python that were used in building this respository and some utility codes.
+    1. "Loadingjson.py" -> This file helps you load the json file and read the data. Just replace the file path. 
 
     
 
