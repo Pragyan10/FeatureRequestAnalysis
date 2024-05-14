@@ -19,7 +19,7 @@
     7. "All Comments" *(Inside all comments you will see list of dictonary where the first key "Text" is the text discussion and "Images" is the images (if any) added to the discussion by the user. This "All Comments" also includes the initial post)
 4. **Directory:** "UsefulPythonCodes" -> This directory consists of python that were used in building this respository and some utility codes.
     1. "Loadingjson.py" -> This file helps you load the json file and read the data. Just replace the file path.
-    2. Check readme inside UsefulPythonCodes directory. 
+    2. "PullingAllTheIssuesOnlyNumbers.py" -> Check readme inside UsefulPythonCodes directory. 
 
     
 
