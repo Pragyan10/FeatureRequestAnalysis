@@ -13,8 +13,8 @@
     This directory consist json files of the feature requests extracted from two open source applications: Mastodon and Signal.
     Files names are named so as to reflect the application, status (closed or open), and number of requets.
     The keys that are in the json files are: 
-      1. "Requet Number"
-      2. "Title"
+        - "Requet Number"
+        - "Title"
       3. "Author"
       4. "Posted Time"
       5. "Initial Comment"
