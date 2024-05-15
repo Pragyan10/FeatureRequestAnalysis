@@ -1,0 +1,5 @@
+1. Ambiguity Handbook 
+https://cs.uwaterloo.ca/~dberry/handbook/ambiguityHandbook.pdf
+
+2. Inquiry-Based Requirements Analysis 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=268952
