@@ -8,6 +8,7 @@
       3. Annotator Name
       4. *Class*: Lexical, Syntactic, Semantic, Pragmatic 
       5. *Class-Subclass*: Lexical-Homonymy, Lexical-Polysemy, Syntactic-Analytics, Syntactic-Attachment, Syntactic-Coordination, Syntactic-Elliptical, Semantic-Scope, Semantic-Referential, Semantic-Coordination, Pragmatic-Referential, Pragmatic-Dectic
+         Here the idea of using Class and Sub class is that if we have annotation that fall under a class but we arent sure which sub class it goes too. 
    2. Inside *Class* and *Class-Subclass*:
       1. Dictionary with attributes relating to the annotation -> text, reason, completenes, weight, startIndex, endIndex
 - Complete the Annotation tool with subclasses -> Pragyan
