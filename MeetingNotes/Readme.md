@@ -18,9 +18,11 @@
 - Task for next week: Look over the annotations. Learn different annotation made by other annotators and make changes if need be.
 - File shared on one drive by Pragyan where we all can make changes.
 - If you want to make change: mark the text you want to remove from your annotation as "red" - mark the text you added to your existing annotation as "green" -- *** Only make changes for your row ***
+- Make notes on your end too. We can use to make heuristics later on and discuss during the meetings. Find something interesting make note of it :)
 - Annotation Notes:
   1. If there is some information missing to an annotation and is incomplete but not ambigious then add them as syntactic-eliptical
-  2. Attributes inside the dictionary:
+  2. Make notes for instances if you see same class but different sub class. Maybe draw reasons on why? What do you see. 
+  3. If adding any new follow the dictionary format. Attributes inside the dictionary:
      1. text: highlighted text from the original request
      2. reason: why did you annnotate it 
      3. incompleteness: is the annotation incomplete? does adding something to the annotation make it not ambigious
