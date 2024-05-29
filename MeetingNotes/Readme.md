@@ -28,4 +28,5 @@
      3. incompleteness: is the annotation incomplete? does adding something to the annotation make it not ambigious
      4. weight: impact of the ambigity for implementation/development/change to the current system
      5. start/end index: tool will handle this
+- Next meeting date: 5th June 2024 - We will look other the revised annotation 
      
