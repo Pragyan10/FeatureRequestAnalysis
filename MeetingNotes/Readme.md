@@ -9,7 +9,7 @@
       4. *Class*
       5. *Class-Subclass*
    2. Inside *Class* and *Class-Subclass*:
-      1. Dictionary with attributes relating to the annotation
+      1. Dictionary with attributes relating to the annotation -> text, reason, completenes, weight, startIndex, endIndex
 - Complete the Annotation tool with subclasses -> Pragyan
 - We discuss annotation (10 annotation) - 29th May 2024 - Next Meeting Date
 
