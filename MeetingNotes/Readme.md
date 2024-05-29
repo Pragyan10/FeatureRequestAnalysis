@@ -22,6 +22,9 @@
 - Annotation Notes:
   1. If there is some information missing to an annotation and is incomplete but not ambigious then add them as syntactic-eliptical
   2. Attributes inside the dictionary:
-     1. incompleteness: is the annotation incomplete? does adding something to the annotation make it not ambigious
-     2. weight: impact of the ambigity for implementation/development/change to the current system
-     3. start/end index: tool will handle this 
+     1. text: highlighted text from the original request
+     2. reason: why did you annnotate it 
+     3. incompleteness: is the annotation incomplete? does adding something to the annotation make it not ambigious
+     4. weight: impact of the ambigity for implementation/development/change to the current system
+     5. start/end index: tool will handle this
+     
