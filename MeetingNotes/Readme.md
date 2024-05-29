@@ -2,6 +2,14 @@
 
 ## 16th May 2024 
 - Make CSV for Manual Evaluation -> Rambod (follow the AnalyzedFeatureRequests/CSV-ForManualEvaluation directory)
+   1. CSV file format:
+      1. Feature Request Number
+      2. Original Rquest
+      3. Annotator Name
+      4. *Class*
+      5. *Class-Subclass*
+   2. Inside *Class* and *Class-Subclass*:
+      1. Dictionary with attributes relating to the annotation
 - Complete the Annotation tool with subclasses -> Pragyan
 - We discuss annotation (10 annotation) - 29th May 2024 - Next Meeting Date
 
