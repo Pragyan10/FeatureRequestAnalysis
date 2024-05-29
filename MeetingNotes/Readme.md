@@ -6,8 +6,8 @@
       1. Feature Request Number
       2. Original Rquest
       3. Annotator Name
-      4. *Class*
-      5. *Class-Subclass*
+      4. *Class*: Lexical, Syntactic, Semantic, Pragmatic 
+      5. *Class-Subclass*: Lexical-Homonymy, Lexical-Polysemy, Syntactic-Analytics, Syntactic-Attachment, Syntactic-Coordination, Syntactic-Elliptical, Semantic-Scope, Semantic-Referential, Semantic-Coordination, Pragmatic-Referential, Pragmatic-Dectic
    2. Inside *Class* and *Class-Subclass*:
       1. Dictionary with attributes relating to the annotation -> text, reason, completenes, weight, startIndex, endIndex
 - Complete the Annotation tool with subclasses -> Pragyan
