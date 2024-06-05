@@ -36,7 +36,8 @@
 - Keep working on the annotation if you haven't finished.
 - New time for the meeting -> Wednesday 12:30 pm
 - Pragyan presents paper in the next meeting (next day not necessarily meeting) -> 12th June 2024 -> Finish the slides and then let everyone know when you can present
-- John sends the annotation to Rambod -> Rambod add John's annotation to the CSV 
+- John sends the annotation to Rambod -> Rambod add John's annotation to the CSV
+- "Vagueness" added to the list of the columns of the classes for Ambiguity
 
 
 
