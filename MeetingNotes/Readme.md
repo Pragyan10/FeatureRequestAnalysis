@@ -31,3 +31,14 @@
      5. start/end index: tool will handle this
 - Next meeting date: 5th June 2024 - We will look other the revised annotation 
      
+
+## June 5th 2024 
+- Keep working on the annotation if you haven't finished.
+- New time for the meeting -> Wednesday 12:30 pm
+- Pragyan presents paper in the next meeting (next day not necessarily meeting) -> 12th June 2024 -> Finish the slides and then let everyone know when you can present
+- John sends the annotation to Rambod -> Rambod add John's annotation to the CSV 
+
+
+
+
+
