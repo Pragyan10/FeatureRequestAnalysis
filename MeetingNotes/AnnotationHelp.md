@@ -11,3 +11,5 @@
      4. weight: impact of the ambigity for implementation/development/change to the current system
      5. start/end index: tool will handle this
   4. "Vagueness" added to the annotation columns
+  5. Make notes from your peers review (Will be helpful for the heuristics)
+
